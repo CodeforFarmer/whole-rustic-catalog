@@ -34,28 +34,31 @@
 * design figma blender
 * data pipcook(nodejs) 
 * mobile html
-* web deno
+* server deno
 * hardware toit
 * contract endojs
 * database pouchdb excel
 * money stripe
+* desktop electron
 
 
 #### 中型工具 py
 * design sketch
 * data python
 * mobile uniapp
-* web  go
+* server  go
 * hardware m5stack
 * contract solidity
 * database pgsql
+* desktop pyside2
 
 #### 重型工具 java
 * design ps
 * data scala
 * mobile flutter
-* web java(spring)
+* server java(spring)
 * hardware c
 * contract rust
 * database big-data-stack
+* desktop c#/swift/cpp
 
