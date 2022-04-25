@@ -24,3 +24,12 @@ hs_err_pid*
 
 # nodejs
 node_modules
+
+# _book
+_book
+
+# .gitee
+.gitee
+
+yarn.lock
+package-lock.json
